@@ -3,14 +3,14 @@
 
 <br/>
 
-The source codes in this repository are codes for the chat bot of Kakotalk--a Korean chat application--and therefore, the codes here are only for Korean developers. Basic information written in this README.md are as followings:
+The source codes in this repository are codes of the Kakotalk--a Korean chat application--chatbot, and therefore, I allow only Korean developers to utilize the codes. Other basic information written in this README.md is as followings:
 * 'the codes' mean the source codes in this repository.
 * Only Korean or people who live in Korea may use the codes under 'CC BY-NC-SA 2.0 KR' license.
 * The codes are written in JavaScript.
 
 <br/>
 
-I am sorry to disappoints you with the license only for specific people. However, while the codes are at very basic level, you are very welcome to have a look and try out by yourself. Please do not share to change the codes. Thank you.
+I am sorry to disappoints you with the license only for specific people. However, while the codes are at very basic level, you are very welcome to have a look and try out by yourself. Please, just do not share or change the codes. Thank you.
 
 <br/>
 
