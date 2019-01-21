@@ -12,7 +12,7 @@ The source codes in this repository are codes for the chat bot of Kakotalk--a Ko
 
 I am sorry to disappoints you with the license only for specific people. However, while the codes are at very basic level, you are very welcome to have a look and try out by yourself. Please do not share to change the codes. Thank you.
 
-
+<br/>
 
 # I-bot(아이봇)
 I-bot은 초보개발자 UnNamed72가 만든 카카오톡봇 입니다.
@@ -23,7 +23,7 @@ JavaScript로 작성되었고, 보라색 앱(젤브봇)이랑 파란색 앱(메�
 
 <br/><br/>
 
-## License(라이선스)
+# License(라이선스)
 
 I-bot repository에 있는 모든 코드들은 대한민국에 거주 중인 사람이나 한국인만 사용할 수 있으며, CC BY-NC-SA 2.0 KR 라이선스를 따릅니다.
 
@@ -48,7 +48,7 @@ CC BY-NC-SA 2.0 KR는 **저작자 표시**, **비영리**, **동일조건변경*
 
 <br/><br/>
 
-## Contact(연락)
+# Contact(연락)
 아래의 경우에는 'dhlee991124@naver.com'으로 이메일 보내주시기 바랍니다.
 제목은 "[봇] "으로 시작해주시기 바랍니다. (예시: [봇] 라이선스 예외요청)
 
