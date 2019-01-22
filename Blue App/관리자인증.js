@@ -15,8 +15,8 @@ const scriptName="관리자인증.js";
 //변수 미리 선언
 var administrator = []; //관리자 인증 가능한 사람 목록(관리자목록)
 var logged_in = []; //로그인한 관리자 목록
-var key;
-var log_out;
+var key; //인증요청시 비밀번호
+var log_out; //로그아웃할때 쓰는 변수
 
 function response(room, msg, sender, isGroupChat, replier, ImageDB, packageName, threadId) {
 
